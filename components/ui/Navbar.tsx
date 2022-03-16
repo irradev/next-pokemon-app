@@ -27,7 +27,7 @@ export const Navbar = () => {
       <NextLink href="/" passHref>
         <Link>
           <Text color="white" h2>
-            ¡P
+            P
           </Text>
           <Text color="white" h3>
             okémon!
